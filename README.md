@@ -1,2 +1,2 @@
 # coop-mods
- all of my mods for sm64ex-coop
+ All of my mods for sm64ex-coop
